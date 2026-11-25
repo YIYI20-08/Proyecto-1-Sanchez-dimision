@@ -1,0 +1,59 @@
+estilo1 {
+    background-color: #315c38;
+    text-align: center;
+    padding: 25px;
+    font-family: Arial, sans-serif;
+}
+estilo2 {
+    background-color: white;
+    color: #333333;
+    margin: 25px;
+    padding: 25px;
+    border: 2px solid #527d50;
+    font-family: Verdana, sans-serif;
+    text-align: justify;
+}
+estilo3 img{
+    height: 10px;
+    object-fit: cover;
+    margin: 8px;
+    border: 2px solid white;
+}
+
+
+estilo4 {
+    background-color: #eef3e9;
+    margin: 25px;
+    padding: 25px;
+    border: 2px solid #315c38;
+    text-align: center;
+}
+
+estilo4 table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 25px;
+}
+
+estilo4 th {
+    background-color: #315c38;
+    color: white;
+    padding: 12px;
+    border: 1px solid #999999;
+}
+
+estilo4 td {
+    border: 1px solid #999999;
+    padding: 12px;
+}
+
+estilo4 a {
+    color: #315c38;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+estilo4 a:hover {
+    color: #8aaf75;
+    text-decoration: underline;
+}
